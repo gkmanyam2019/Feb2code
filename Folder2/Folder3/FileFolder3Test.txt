@@ -1,3 +1,7 @@
 Test Text push and pull
 First line from Local to central
 ********************************
+Second line from Central to Local
+Test text push and pull
+*******************************
+Done
